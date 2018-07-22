@@ -7,7 +7,7 @@ body {
 }
 
 ul {
-  max-width: 40%;
+  max-width: 50%;
   margin: 0 auto;
 }
 
@@ -16,6 +16,17 @@ li {
   line-height: 25px;
 }
 
+#image {
+  max-width: 100%;
+}
+
 #img-caption {
   color: darkgrey;
+}
+
+#img-div {
+  width: 100%;
+  display: block;
+  height: auto;
+  margin: 0 auto;
 }
