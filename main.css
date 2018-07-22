@@ -1,0 +1,21 @@
+body {
+  background: #eee;
+  color: #333;
+  border-radius: 5px;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  text-align: center;
+}
+
+ul {
+  max-width: 40%;
+  margin: 0 auto;
+}
+
+li {
+  padding: 5px;
+  line-height: 25px;
+}
+
+#img-caption {
+  color: darkgrey;
+}
